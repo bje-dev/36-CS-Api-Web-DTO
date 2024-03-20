@@ -1,0 +1,31 @@
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\bin\Debug\net6.0\appsettings.json
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\bin\Debug\net6.0\Web Formulario.staticwebassets.runtime.json
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\bin\Debug\net6.0\Web Formulario.exe
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\bin\Debug\net6.0\Web Formulario.deps.json
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\bin\Debug\net6.0\Web Formulario.runtimeconfig.json
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\bin\Debug\net6.0\Web Formulario.dll
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\bin\Debug\net6.0\Web Formulario.pdb
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.csproj.AssemblyReference.cache
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.AssemblyInfoInputs.cache
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.AssemblyInfo.cs
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.csproj.CoreCompileInputs.cache
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.RazorAssemblyInfo.cache
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.RazorAssemblyInfo.cs
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\staticwebassets\msbuild.Web Formulario.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\staticwebassets\msbuild.build.Web Formulario.props
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web Formulario.props
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web Formulario.props
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\scopedcss\bundle\Web Formulario.styles.css
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\scopedcss\projectbundle\Web Formulario.bundle.scp.css
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.dll
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\refint\Web Formulario.dll
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.pdb
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\Web Formulario.genruntimeconfig.cache
+C:\Users\b-j-e\source\repos\36-CS-Api-Web-DTO\Web Formulario\obj\Debug\net6.0\ref\Web Formulario.dll
